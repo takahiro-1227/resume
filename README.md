@@ -17,21 +17,19 @@
 ### 株式会社インパクトブルー（2021/4 ~)
 
 #### メディアサイトのAPI・CMS・フロントエンド開発(2022/2 ~)
-##### 担当業務
-API・CMS・フロントすべての領域における機能開発（受託）
 
-例：
+【担当業務例】　　
 - 特定の条件の記事が投稿された時、Pinterestにも画像つきで自動投稿される機能開発
 - 記事更新時に、Algolia に記事を同期する機能の改修
 - 複雑な条件で取得した記事一覧ページの作成
 
-##### 使用技術
+【使用技術】  
 Typescript / React / Next.js / GraphQL / MySQL / Prisma / TypeORM / Apollo Server / Apollo Client / Jest / Cypress / Docker
 
-【AWS】
+- AWS
 Lambda / API Gateway / S3 / CloudFront
 
-【SaaS】
+- SaaS
 bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare Image Optimization
 
 ##### PRポイント
@@ -39,7 +37,7 @@ bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare I
 - プルリクエストでは指摘のコメントだけでなく、ロジックの組み方に対する意図が読みきれないときに質問のコメントを入れたり、振り返りのMTGで提案・質問したり、自分が上げたプルリクエスト内で懸念点を明示し、意見を求めるなど、自発的なコミュニケーションは積極的に行うよう心がけました。結果的に他のメンバー間の発言も促進され、チーム全体でコミュニケーションが活発になりました。
 
 #### WordPressサイト・LP・ECサイト等の開発(2021/4 ~ 2022/1)
-##### 担当業務
+【担当業務】  
 - WordPressを使用したサイトの新規開発・追加機能開発
 - MakeShop を使用したECサイトの開発
 - LP の制作
@@ -47,7 +45,7 @@ bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare I
  ##### 使用技術
  HTML5 / CSS3 / Javascript / jQuery / PHP / Wordpress / Smarty
 
- 【SaaS】
+ - SaaS
  MakeShop / Toreta API
 
 ##### PRポイント
@@ -55,10 +53,10 @@ bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare I
 - 新規開発を1人で行っていたので、全体のタスクの洗い出しや工数見積もり等経験しております。
 
 ### 株式会社プランニングマーケット(2020/8 ~ 2021/4)
-##### 担当業務
+【担当業務】  
 - Excelを用いた集計作業
 - 電子書籍の校正作業
 
 ### 株式会社ディスコ(2020/4 ~ 2020/7)
-##### 担当業務
+【担当業務】  
 - 求人広告の新規テレアポ・訪問営業
