@@ -32,7 +32,7 @@ Lambda / API Gateway / S3 / CloudFront
 - SaaS
 bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare Image Optimization
 
-##### PRポイント
+【PRポイント】  
 - DBからのデータ取得や静的型付け言語など、未経験の技術がほとんどでしたが、1ヶ月ほどでタスクを自分主体で進め、3ヶ月後にはメンバーのプルリクエストに修正点の指摘等できるまで成長しました。必要な技術にキャッチアップする自走力には自信があります。
 - プルリクエストでは指摘のコメントだけでなく、ロジックの組み方に対する意図が読みきれないときに質問のコメントを入れたり、振り返りのMTGで提案・質問したり、自分が上げたプルリクエスト内で懸念点を明示し、意見を求めるなど、自発的なコミュニケーションは積極的に行うよう心がけました。結果的に他のメンバー間の発言も促進され、チーム全体でコミュニケーションが活発になりました。
 
@@ -42,13 +42,13 @@ bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare I
 - MakeShop を使用したECサイトの開発
 - LP の制作
 
- ##### 使用技術
+ 【使用技術】  
  HTML5 / CSS3 / Javascript / jQuery / PHP / Wordpress / Smarty
 
  - SaaS
  MakeShop / Toreta API
 
-##### PRポイント
+【PRポイント】  
 - エンジニア経験のないディレクターにヒアリング・提案を行いながら開発を行いました。ここで相手の技術力を踏まえた上でのコミュニケーション力を身につけました。
 - 新規開発を1人で行っていたので、全体のタスクの洗い出しや工数見積もり等経験しております。
 
