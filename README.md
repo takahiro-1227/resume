@@ -25,11 +25,10 @@
 
 【使用技術】  
 Typescript / React / Next.js / GraphQL / MySQL / Prisma / TypeORM / Apollo Server / Apollo Client / Jest / Cypress / Docker
-
-[AWS]  
+AWS  
 Lambda / API Gateway / S3 / CloudFront
 
-[SaaS]  
+SaaS  
 bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare Image Optimization
 
 【PRポイント】  
@@ -45,7 +44,7 @@ bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare I
  【使用技術】  
  HTML5 / CSS3 / Javascript / jQuery / PHP / Wordpress / Smarty
 
- [SaaS]  
+ SaaS  
  MakeShop / Toreta API
 
 【PRポイント】  
