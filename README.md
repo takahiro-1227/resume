@@ -25,6 +25,7 @@
 
 【使用技術】  
 Typescript / React / Next.js / GraphQL / MySQL / Prisma / TypeORM / Apollo Server / Apollo Client / Jest / Cypress / Docker
+
 AWS  
 Lambda / API Gateway / S3 / CloudFront
 
