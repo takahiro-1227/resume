@@ -2,12 +2,12 @@
 
 ## 基本情報
 - 佐藤 孝洸（さとう たかひろ）
-- 東京都北区住み
-- 1997年生まれ
-- 早稲田大学教育学部社会科社会科学専修卒
+- 東京都杉並区住み
+- 1997年12月27日生まれ
+- 早稲田大学教育学部社会科社会科学専修卒(2020年卒)
 
 ## 強み
-- バックエンド・フロントエンドを一気通貫で担当していたため、どちらの業務にも対応できます。
+- バックエンド・フロントエンド、要件定義・設計・実装を一気通貫で担当していたため、全体最適を考慮した開発ができます。
 - React、Typescriptなど、モダンな技術を習得しています。
 - 未経験の技術にも自走して、早期にキャッチアップできます。
 - PRやMTGなどで自発的なコミュニケーションを多く行い、チームのコミュニケーションの活発化に努めます。
@@ -16,25 +16,37 @@
 
 ### 株式会社インパクトブルー（2021/4 ~)
 
-#### メディアサイトのAPI・CMS・フロントエンド開発(2022/2 ~)
+#### ファッションメディアのAPI・CMS・フロントエンド開発(2022/2 ~)
+要件定義・設計・実装を一気通貫で担当。
 
-【担当業務例】　　
-- 特定の条件の記事が投稿された時、Pinterestにも画像つきで自動投稿される機能開発
-- 記事更新時に、Algolia に記事を同期する機能の改修
-- 複雑な条件で取得した記事一覧ページの作成
+【担当業務例】
+- bitbucket pipeline から Github Actions へ CI・CD を移行
+- Github Actions にて CI の改善タスクを作成・実行（リリースブランチ作成、CHANGELOG追記の自動化、ビルドプロセスでのキャッシュ最適化など）
+- 特定の種類の記事が投稿された時に、Pinterestに記事のトップ画像をURL情報を投稿する機能の開発
+- ブランド名から記事検索する際、カタカナでも記事が引っかかるように改修（例：「グッチ」で検索したら、「GUCCI」の記事がひっかかるようにする）
 
 【使用技術】  
-Typescript / React / Next.js / GraphQL / MySQL / Prisma / TypeORM / Apollo Server / Apollo Client / Jest / Cypress / Docker
+バックエンド  
+Typescript / MySQL / Apollo Server / Express / Prisma / TypeORM / GraphQL
+
+フロントエンド  
+Typescript / React / Next.js / Apollo Client
+
+テスト  
+Jest / Cypress
 
 AWS  
-Lambda / API Gateway / S3 / CloudFront
+ECS / Lambda / Aurora / API Gateway / S3 / CloudFront / Cloud Watch / EventBridge
 
-SaaS  
-bitbucket / bitbucket pipeline / Algolia / Pinterest / Cloudinary / Cloudflare Image Optimization
+バージョン管理  
+Github / bitbucket
+
+CI・CD
+Github Actions / bitbucket pipeline
 
 【PRポイント】  
 - DBからのデータ取得や静的型付け言語など、未経験の技術がほとんどでしたが、1ヶ月ほどでタスクを自分主体で進め、3ヶ月後にはメンバーのプルリクエストに修正点の指摘等できるまで成長しました。必要な技術にキャッチアップする自走力には自信があります。
-- プルリクエストでは指摘のコメントだけでなく、ロジックの組み方に対する意図が読みきれないときに質問のコメントを入れたり、振り返りのMTGで提案・質問したり、自分が上げたプルリクエスト内で懸念点を明示し、意見を求めるなど、自発的なコミュニケーションは積極的に行うよう心がけました。結果的に他のメンバー間の発言も促進され、チーム全体でコミュニケーションが活発になりました。
+- 新規機能開発に追われて、なかなか運用改善系のタスクに着手できていなかったことについて問題意識を持ち、ディレクターに開発工数の10％を運用改善に充てたらどうかと提案し、実現させました。
 
 #### WordPressサイト・LP・ECサイト等の開発(2021/4 ~ 2022/1)
 【担当業務】  
